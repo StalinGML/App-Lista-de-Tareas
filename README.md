@@ -1,4 +1,4 @@
-# Aplicación de Agenda Personal (Java Swing)
+# Aplicación GUI de Lista de Tareas
 
 ## Datos del estudiante
 **Nombre:** Stalin Gabriel Mendieta López  
